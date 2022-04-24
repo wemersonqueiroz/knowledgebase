@@ -1,0 +1,16 @@
+{
+  "name": "notion-example",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@emailjs/browser": "^3.6.2",
+    "@notionhq/client": "^1.0.1",
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "https": "^1.0.0",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
